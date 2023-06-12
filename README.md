@@ -4,9 +4,6 @@
 ![](https://img.shields.io/badge/-hello%20everybody-purple)
 ![](https://img.shields.io/badge/-hello%20world-skyblue)
 ![](https://img.shields.io/badge/-hello%20world-orange)
-
-**MarcoTheFrontEndGuy/MarcoTheFrontEndGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![content here](https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg);
 
 
