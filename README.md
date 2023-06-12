@@ -15,8 +15,8 @@
 ![](https://img.shields.io/badge/-JAVASCRIPT-orange)
 ![](https://img.shields.io/badge/-REACT-green)
 ![](https://img.shields.io/badge/-REDUX-purple)
-![](https://img.shields.io/badge/-BOOTSTRAP 5-pink)
-![](https://img.shields.io/badge/-TAILWIND CSS-green)
+![](https://img.shields.io/badge/-BOOTSTRAP5-pink)
+![](https://img.shields.io/badge/-TAILWINDCSS-green)
 
 
 <!-- ![alt text](https://img.shields.io/badge/-hello%20world-green)
