@@ -12,10 +12,10 @@
 
 # Tech Stack
 https://img.shields.io/badge/-html5-purple
-<img src="https://img.shields.io/badge/-HTML5-purple" width="25" />
-<img src="https://img.shields.io/badge/-CSS-blue" width="25" />
-<img src="https://img.shields.io/badge/-JAVASCRIPT-purple" width="25" />
-<img src="https://img.shields.io/badge/-REACT-purple" width="25" />
-<img src="https://img.shields.io/badge/-REDUX-orange" width="25" />
-<img src="https://img.shields.io/badge/-BOOTSTRAP-skyblue" width="25" />
-<img src="https://img.shields.io/badge/-TAILWIND CSS-brown" width="25" />
+<img src="https://img.shields.io/badge/-HTML5-purple" width="100" />
+<img src="https://img.shields.io/badge/-CSS-blue" width="100" />
+<img src="https://img.shields.io/badge/-JAVASCRIPT-purple" width="100" />
+<img src="https://img.shields.io/badge/-REACT-purple" width="100" />
+<img src="https://img.shields.io/badge/-REDUX-orange" width="100" />
+<img src="https://img.shields.io/badge/-BOOTSTRAP-skyblue" width="100" />
+<img src="https://img.shields.io/badge/-TAILWIND CSS-brown" width="100" />
