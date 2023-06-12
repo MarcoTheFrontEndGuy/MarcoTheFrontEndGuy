@@ -17,7 +17,9 @@
 ![go for more text](https://img.shields.io/badge/-css-skyblue)
 ![alternate text](https://img.shields.io/badge/-redux-orange)
 
-<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" align="left" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/MarcoTheFrontEndGuy/MarcoTheFrontEndGuy/main/dummy-code--github-example-readme-file.png" align="left" width="100%" />
+
+<!-- <img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" align="left" width="100" height="100" /> -->
 <p>
 dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywhere dummy text everywher
 </p>
