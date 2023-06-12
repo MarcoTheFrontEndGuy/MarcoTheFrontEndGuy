@@ -7,9 +7,8 @@
 <!-- ![rainy clouds today outside](https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg); -->
 |<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="20%" height="100" />
  <img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="20%" height="100" />|
- 
 <img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="20%" height="100" />
-<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="20%" height="100" />
+<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="20%" height="100" />|
 
 Here are some ideas to get you started:
 
