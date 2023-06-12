@@ -5,10 +5,10 @@
 ![go for more text](https://img.shields.io/badge/-hello%20world-skyblue)
 ![alternate text](https://img.shields.io/badge/-hello%20world-orange)
 <!-- ![rainy clouds today outside](https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg); -->
-|<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="20%" height="100" />
- <img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="20%" height="100" />
-<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="20%" height="100" />
-<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="20%" height="100" />|
+|<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="10%" height="60" />
+ <img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="10%" height="60" />
+<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="10%" height="60" />
+<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" width="10%" height="60" />|
 
 # Tech Stack
 |<img src="https://img.shields.io/badge/-HTML5-purple" width="100" />
