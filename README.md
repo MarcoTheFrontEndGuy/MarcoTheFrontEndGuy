@@ -6,6 +6,8 @@
 ![alternate text](https://img.shields.io/badge/-hello%20world-orange)
 <!-- ![rainy clouds today outside](https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg); -->
 <img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" height="200" />
+<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" height="200" />
+<img src="https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg" height="200" />
 
 Here are some ideas to get you started:
 
