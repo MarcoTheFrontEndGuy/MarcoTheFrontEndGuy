@@ -1,7 +1,7 @@
 
-# Marco just stepped up! 
+# Hi, I'm Marco! 
 
-# Tech Stack
+## Tech Stack
 <!-- |<img src="https://img.shields.io/badge/-HTML5-purple" />
 <img src="https://img.shields.io/badge/-CSS-blue" width="100" height="50" />
 <img src="https://img.shields.io/badge/-JAVASCRIPT-purple" width="100" height="50" />
