@@ -1,7 +1,9 @@
 
 # Marco just stepped up! 
 ![](https://img.shields.io/badge/-hello%20world-green)
-
+![](https://img.shields.io/badge/-hello%20everybody-purple)
+![](https://img.shields.io/badge/-hello%20world-skyblue)
+![](https://img.shields.io/badge/-hello%20world-orange)
 
 **MarcoTheFrontEndGuy/MarcoTheFrontEndGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
