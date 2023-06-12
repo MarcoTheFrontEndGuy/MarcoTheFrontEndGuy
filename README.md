@@ -1,10 +1,10 @@
 
 # Marco just stepped up! 
-![](https://img.shields.io/badge/-hello%20world-green)
-![](https://img.shields.io/badge/-hello%20everybody-purple)
-![](https://img.shields.io/badge/-hello%20world-skyblue)
-![](https://img.shields.io/badge/-hello%20world-orange)
-![content here](https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg);
+![alt text](https://img.shields.io/badge/-hello%20world-green)
+![alt text2](https://img.shields.io/badge/-hello%20everybody-purple)
+![go for more text](https://img.shields.io/badge/-hello%20world-skyblue)
+![alternate text](https://img.shields.io/badge/-hello%20world-orange)
+![rainy clouds today outside](https://cdn.pixabay.com/photo/2023/06/05/11/21/landscape-8042018_1280.jpg);
 
 
 Here are some ideas to get you started:
